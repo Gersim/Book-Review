@@ -66,3 +66,7 @@ dropdown-toggle{
 .form-control.error{
     border: 2px solid red;
 }
+
+.fa.fa-star{
+    font-size: 30px;
+}
